@@ -46,6 +46,7 @@ menu:
   Home: /
   Archives: /archives
   About: /about
+  Disclaimer: /disclaimer
 ## you can create `tags` and `categories` folders (I had created them already).
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
@@ -74,7 +75,7 @@ imglogo:
   src: img/logo.png        ## `.svg` and `.png` are recommended,please put image into the theme folder `/jacman/source/img`.
 favicon: img/favicon.ico   ## size:32px*32px,`.ico` is recommended,please put image into the theme folder `/jacman/source/img`.     
 apple_icon: img/jacman.jpg ## size:114px*114px,please put image into the theme folder `/jacman/source/img`.
-#author_img: img/author.jpg ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
+author_img: img/author.jpg ## size:220px*220px.display author avatar picture.if don't want to display,please don't set this.
 #banner_img: img/banner.jpg ## size:1920px*200px+. Banner Picture
 
 #### index post is expanding or not 
@@ -89,14 +90,14 @@ share_button: true #enable share buttons if true
 #### Author information
 author:
   name: Mirko Prescha      ## e.g. wuchong Author name
-  intro_line1:  "Hello ,I'm Mirko Prescha."    ## your introduction on the bottom of the page
-  intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
+  intro_line1:  "Hello, my name is Mirko and owner of this blog."    ## your introduction on the bottom of the page
+  intro_line2:  "As a Data Engineer, interested in big data technolgies, I am sharing my insights regarding big data topics."  ## the 2nd line
   #weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   #weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   #tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
   #douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   #zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
-  email:      mirko.prescha@gmx.de ## e.g. imjark@gmail.com
+  email:      Hortkind666@gmail.com ## e.g. imjark@gmail.com
   #twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
   github:      https://github.com/mirkoprescha
   #facebook:   ## e.g. imjark for https://facebook.com/imjark
